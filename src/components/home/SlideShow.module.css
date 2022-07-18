@@ -1,0 +1,11 @@
+.container{
+ 
+  width: 80rem;
+  margin: 20px auto;
+  
+}
+@media screen and (max-width: 600px) {
+  .container img{
+    height: 300px;
+  }
+}
