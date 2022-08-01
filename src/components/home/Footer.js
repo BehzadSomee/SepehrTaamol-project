@@ -11,7 +11,7 @@ function Footer() {
   return (
     <div className={styles.container}>
       <div className={styles.logo}>
-        <img src={logo} alt="ghelichli" />
+        {/* <img src={logo} alt="somee" /> */}
         <h3>©2021.All Rights Reserved</h3>
       </div>
       <div className={styles.contact}>

@@ -40,7 +40,7 @@ function Navbar() {
                 />
                 <div>{click && <Products />}</div>
               </li>
-              <li>
+              {/* <li>
               <Link to="/">
               <img
               src={logo}
@@ -49,7 +49,7 @@ function Navbar() {
             />
               </Link>
                   
-              </li>
+              </li> */}
             </ul>
           </li>
           <li className={styles.login}>
